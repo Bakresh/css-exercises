@@ -1,0 +1,16 @@
+.class {
+    background-color: #ff000050;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+.class.cooler {
+    font-size: 24px;
+}
+#second {
+    background-color: #00ff007f;
+    font-size: 24px;
+    font-weight: bold;
+}
